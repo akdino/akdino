@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm a 3rd year Computer Science student at PES Uni
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdino&show_icons=true&theme=tokyonight)
+## 🧮 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdino&layout=compact&theme=radical)
 
+---
+
+Thanks for stopping by! 🎀🦋
