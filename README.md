@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Hi, I'm Anagha here! 🎀
+#  Hi, I'm Anagha here! 
 
 Welcome to my GitHub profile! I'm a 3rd year Computer Science student at PES University, Banglore
 ## 🧠 About Me
