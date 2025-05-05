@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a 3rd year Computer Science student at PES University, Banglore
 ## 🧠 About Me
-- 🔭 Currently working on: Gen AI, Quantum Machine Learning, Dynamic Inference and more
-- 🌱 Learning: Quantum vision transformers, real-time speech-to-text, and GNN explainability
+\- 🌱 Learning: Quantum vision transformers, Gen AI, Kolmogorov-Arnold Networks, dynamic inference and more
 - 📫 Reach me at: [anagha.7.k@gmail.com]
 
 
