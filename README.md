@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 # 🎀 Hi, I'm Anagha here! 🦋
 
 Welcome to my GitHub profile! I'm a 3rd year Computer Science student at PES University, Banglore
+## 🧠 About Me
+- 🔭 Currently working on: Gen AI, Quantum Machine Learning, Dynamic Inference and more
+- 🌱 Learning: Quantum vision transformers, real-time speech-to-text, and GNN explainability
+- 📫 Reach me at: [anagha.7.k@gmail.com]
 
 
 
